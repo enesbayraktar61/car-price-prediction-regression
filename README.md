@@ -75,11 +75,13 @@ cd car-price-prediction-regression
 pip install -r requirements.txt
 streamlit run app.py
 
-Conclusion
-This project demonstrates an end-to-end machine learning regression workflow including data preprocessing, model training, evaluation, and deployment.
 
 Future Improvements
 
 Hyperparameter tuning
 Feature importance analysis
 Extended user input support
+
+Conclusion
+
+This project demonstrates an end-to-end machine learning regression workflow including data preprocessing, model training, evaluation, and deployment.

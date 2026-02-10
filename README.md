@@ -67,14 +67,11 @@ car_price_prediction/
 
 ---
 
-## How to Run Locally
+Conclusion
 
-```bash
-git clone https://github.com/enesbayraktar61/car-price-prediction-regression.git
-cd car-price-prediction-regression
-pip install -r requirements.txt
-streamlit run app.py
+This project demonstrates an end-to-end machine learning regression workflow including data preprocessing, model training, evaluation, and deployment.
 
+---
 
 Future Improvements
 
@@ -82,6 +79,12 @@ Hyperparameter tuning
 Feature importance analysis
 Extended user input support
 
-Conclusion
+---
 
-This project demonstrates an end-to-end machine learning regression workflow including data preprocessing, model training, evaluation, and deployment.
+## How to Run Locally
+
+```bash
+git clone https://github.com/enesbayraktar61/car-price-prediction-regression.git
+cd car-price-prediction-regression
+pip install -r requirements.txt
+streamlit run app.py
